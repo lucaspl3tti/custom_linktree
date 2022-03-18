@@ -1,10 +1,10 @@
 particlesJS('particles-js', {
 	particles: {
 		number: {
-			value: 100,
+			value: 120,
 			density: {
 				enable: true,
-				value_area: 800
+				value_area: 1000
 			}
 		},
 		color: {
@@ -48,9 +48,9 @@ particlesJS('particles-js', {
 		},
 		line_linked: {
 			enable: true,
-			distance: 150,
+			distance: 120,
 			color: '#808080',
-			opacity: 0.4,
+			opacity: .3,
 			width: 1
 		},
 		move: {
