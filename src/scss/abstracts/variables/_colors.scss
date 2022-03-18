@@ -1,0 +1,25 @@
+// main colors
+$color-primary: rgba(39, 24, 126, 1);
+$color-secondary: rgba(255, 134, 0, 1);
+
+// body colors
+$color-body: rgba(248, 247, 253, 1);
+$color-body-dark: rgba(16, 12, 39, 1);
+
+// text colors
+$color-text: $color-body-dark;
+$color-text-light: $color-body;
+
+// purple color variants
+$color-purple-700: rgba(28, 20, 66, 1);
+$color-purple-600: rgba(45, 32, 105, 1);
+$color-purple-500: rgba(61, 44, 141, 1);
+$color-purple-400: rgba(78, 56, 183, 1);
+$color-purple-300: rgba(107, 87, 203, 1);
+
+// orange color variants
+$color-orange-500: rgba(255, 109, 0, 1);
+$color-orange-400: rgba(255, 121, 0, 1);
+$color-orange-300: rgba(255, 134, 0, 1);
+$color-orange-200: rgba(255, 145, 0, 1);
+$color-orange-100: rgba(255, 158, 0, 1);
